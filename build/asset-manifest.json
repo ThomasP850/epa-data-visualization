@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/epa-data-visualization/static/css/main.83eff689.css",
+    "main.js": "/epa-data-visualization/static/js/main.8c987e71.js",
+    "static/js/787.081aa007.chunk.js": "/epa-data-visualization/static/js/787.081aa007.chunk.js",
+    "index.html": "/epa-data-visualization/index.html",
+    "main.83eff689.css.map": "/epa-data-visualization/static/css/main.83eff689.css.map",
+    "main.8c987e71.js.map": "/epa-data-visualization/static/js/main.8c987e71.js.map",
+    "787.081aa007.chunk.js.map": "/epa-data-visualization/static/js/787.081aa007.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83eff689.css",
+    "static/js/main.8c987e71.js"
+  ]
+}
