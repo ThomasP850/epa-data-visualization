@@ -202,13 +202,10 @@ function App() {
             </select>
           </div>
         </header>
-        {isLoading? (
-          <div id="loading-screen">
-
-            <img src="loading.gif" />
-            <p>Loading...</p>
-          </div>
-        ): null}
+        <div id="loading-screen" className={isLoading? "" : "shrink"}>
+          <img src="loading.gif" />
+          <p>Loading...</p>
+        </div>
         <div id="map"></div>
       </div>
     </div>
